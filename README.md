@@ -15,7 +15,7 @@
 ### About me
 - 🌱 I’m currently learning **C++**
 - 📫 How to reach me? [Email](mailto:hirakirishogun@gmail.com)
-- 🌍 I speak Russian, English and Chinese
+- 🌍 I speak Russian, English
 
 ---
 
